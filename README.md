@@ -1,2 +1,3 @@
 # CausalDRL
-Here are the data, code, and weight files for the submitting manuscript of CausalDRL.
+
+The data, code and weight files for CausalDRL will be gradually released with the review process of the submitting manuscript.
